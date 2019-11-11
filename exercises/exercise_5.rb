@@ -10,7 +10,6 @@ puts "----------"
 # Your code goes here ...
 
 
-
 ### Exercise 5: Calculations
 
 # 1. Output the total revenue for the entire company (all stores), using Active Record's `.sum` calculation method.
